@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375424623
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375436076
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1444375436170
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1444375436235
+started,bundle,org.eclipse.mylyn.java.ui,3.7.1.v20120425-0100,"org.eclipse.mylyn.java.ui",1444375444876
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375445057
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375449036
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444375450910
+started,bundle,org.eclipse.mylyn.java.tasks,3.7.1.v20120425-0100,"org.eclipse.mylyn.java.tasks",1444375452425
+started,bundle,org.tigris.subversion.clientadapter.javahl,1.7.5.1,"org.tigris.subversion.clientadapter.javahl",1444375452467
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1444375452792
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444375453682
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375459020
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1444375467452
+started,bundle,org.eclipse.mylyn.context.ui,3.7.1.v20120425-0100,"org.eclipse.mylyn.context.ui",1444375469129
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375472306
+error,log,,,"Validation failed: java.lang.StringIndexOutOfBoundsException: String index out of range: 0",1444375476702
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375480961
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1444375480996
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1444375481002
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1444375481677
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1444375481704
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1444375481770
+started,bundle,org.eclipse.emf.common,2.9.1.v20130827-0309,"org.eclipse.emf.common",1444375481833
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375482035
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375482181
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1444375483911
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375485949
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375488146
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1444375491084
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375497340
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375499668
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1444375499692
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375502213
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375506081
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444375521743
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375525578
+started,bundle,org.eclipse.m2e.editor.xml,1.0.100.20110804-1717,"org.eclipse.m2e.editor.xml",1444375527559
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375535827
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444375544656
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375551080
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375556450
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375557958
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.smartEnter",1444375569982
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375575948
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444375606614
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444375607800
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375609507
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375610425
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375612354
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444375624967
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1444375628347
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375635897
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444375652829
+error,log,,,"Current file is not a match for the given config.",1444375652927
+error,log,,,"Current file is not a match for the given config.",1444375652927
+error,log,,,"Current file is not a match for the given config.",1444375652928
+error,log,,,"Current file is not a match for the given config.",1444375652929
+error,log,,,"Current file is not a match for the given config.",1444375652929
+error,log,,,"Current file is not a match for the given config.",1444375652930
+error,log,,,"Current file is not a match for the given config.",1444375652930
+error,log,,,"Current file is not a match for the given config.",1444375652931
+error,log,,,"Current file is not a match for the given config.",1444375652931
+error,log,,,"Current file is not a match for the given config.",1444375652932
+error,log,,,"Current file is not a match for the given config.",1444375652932
+error,log,,,"Current file is not a match for the given config.",1444375652933
+error,log,,,"Current file is not a match for the given config.",1444375652933
+error,log,,,"Current file is not a match for the given config.",1444375652934
+error,log,,,"Current file is not a match for the given config.",1444375652935
+error,log,,,"Current file is not a match for the given config.",1444375652935
+error,log,,,"Current file is not a match for the given config.",1444375652936
+error,log,,,"Current file is not a match for the given config.",1444375652936
+error,log,,,"Current file is not a match for the given config.",1444375652937
+error,log,,,"Current file is not a match for the given config.",1444375652937
+error,log,,,"Current file is not a match for the given config.",1444375652938
+error,log,,,"Current file is not a match for the given config.",1444375652938
+error,log,,,"Current file is not a match for the given config.",1444375652939
+error,log,,,"Current file is not a match for the given config.",1444375652940
+error,log,,,"Current file is not a match for the given config.",1444375652940
+error,log,,,"Current file is not a match for the given config.",1444375652941
+error,log,,,"Current file is not a match for the given config.",1444375652941
+error,log,,,"Current file is not a match for the given config.",1444375652942
+error,log,,,"Current file is not a match for the given config.",1444375652943
+error,log,,,"Current file is not a match for the given config.",1444375652944
+error,log,,,"Current file is not a match for the given config.",1444375652945
+error,log,,,"Current file is not a match for the given config.",1444375652945
+error,log,,,"Current file is not a match for the given config.",1444375652946
+error,log,,,"Current file is not a match for the given config.",1444375652946
+error,log,,,"Current file is not a match for the given config.",1444375652947
+error,log,,,"Current file is not a match for the given config.",1444375652947
+error,log,,,"Current file is not a match for the given config.",1444375652948
+error,log,,,"Current file is not a match for the given config.",1444375652949
+error,log,,,"Current file is not a match for the given config.",1444375652949
+error,log,,,"Current file is not a match for the given config.",1444375652950
+error,log,,,"Current file is not a match for the given config.",1444375652950
+error,log,,,"Current file is not a match for the given config.",1444375652951
+error,log,,,"Current file is not a match for the given config.",1444375652952
+error,log,,,"Current file is not a match for the given config.",1444375652952
+error,log,,,"Current file is not a match for the given config.",1444375652953
+error,log,,,"Current file is not a match for the given config.",1444375652953
+error,log,,,"Current file is not a match for the given config.",1444375652954
+error,log,,,"Current file is not a match for the given config.",1444375652954
+error,log,,,"Current file is not a match for the given config.",1444375652955
+error,log,,,"Current file is not a match for the given config.",1444375652955
+error,log,,,"Current file is not a match for the given config.",1444375652956
+error,log,,,"Current file is not a match for the given config.",1444375652957
+error,log,,,"Current file is not a match for the given config.",1444375652957
+error,log,,,"Current file is not a match for the given config.",1444375652958
+error,log,,,"Current file is not a match for the given config.",1444375652958
+error,log,,,"Current file is not a match for the given config.",1444375652959
+error,log,,,"Current file is not a match for the given config.",1444375652960
+error,log,,,"Current file is not a match for the given config.",1444375652960
+error,log,,,"Current file is not a match for the given config.",1444375652961
+error,log,,,"Current file is not a match for the given config.",1444375652962
+error,log,,,"Current file is not a match for the given config.",1444375652963
+error,log,,,"Current file is not a match for the given config.",1444375652963
+error,log,,,"Current file is not a match for the given config.",1444375652964
+error,log,,,"Current file is not a match for the given config.",1444375652964
+error,log,,,"Current file is not a match for the given config.",1444375652965
+error,log,,,"Current file is not a match for the given config.",1444375652965
+error,log,,,"Current file is not a match for the given config.",1444375652966
+error,log,,,"Current file is not a match for the given config.",1444375652966
+error,log,,,"Current file is not a match for the given config.",1444375652967
+error,log,,,"Current file is not a match for the given config.",1444375652967
+error,log,,,"Current file is not a match for the given config.",1444375652968
+error,log,,,"Current file is not a match for the given config.",1444375652969
+error,log,,,"Current file is not a match for the given config.",1444375652969
+error,log,,,"Current file is not a match for the given config.",1444375652970
+error,log,,,"Current file is not a match for the given config.",1444375652971
+error,log,,,"Current file is not a match for the given config.",1444375652971
+error,log,,,"Current file is not a match for the given config.",1444375652972
+error,log,,,"Current file is not a match for the given config.",1444375652972
+error,log,,,"Current file is not a match for the given config.",1444375652973
+error,log,,,"Current file is not a match for the given config.",1444375652974
+error,log,,,"Current file is not a match for the given config.",1444375652975
+error,log,,,"Current file is not a match for the given config.",1444375652977
+error,log,,,"Current file is not a match for the given config.",1444375652977
+error,log,,,"Current file is not a match for the given config.",1444375652978
+error,log,,,"Current file is not a match for the given config.",1444375652979
+error,log,,,"Current file is not a match for the given config.",1444375652980
+error,log,,,"Current file is not a match for the given config.",1444375652981
+error,log,,,"Current file is not a match for the given config.",1444375652981
+error,log,,,"Current file is not a match for the given config.",1444375652982
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375653080
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375653142
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375670898
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444375671968
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375674653
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375677619
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444375685038
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444375685312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444375685804
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444375698352
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444375699836
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444375700933
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444375706297
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444375707446
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444375713811
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375716731
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375722235
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375724064
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1444375756502
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375763717
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375764932
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375781202
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444375783869
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444375791062
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1444375796690
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375845798
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1444375916193
+started,bundle,org.eclipse.wb.os,1.1.0.r37x201109091012,"org.eclipse.wb.os",1444375916370
+started,bundle,org.eclipse.wb.os.win32,1.1.0.r37x201109091012,"org.eclipse.wb.os.win32",1444375916387
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444375918113
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1444375928689
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375946617
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375958884
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444375961013
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444376069129
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1444376071808
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1444376072713
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444376139764
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444376149596
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.source.quickMenu",1444376160563
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444376164975
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444376167838
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.create.getter.setter",1444376167883
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444376172857
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444376174734
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444376176636
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1444376181100
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444376184101
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444376210092
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444376224694
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1444376248711
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377048810
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377423759
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377426610
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1444377430232
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377430871
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377431717
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444377433525
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377441565
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377442642
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377445260
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377447167
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377467182
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377523345
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444377755969
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444377763621
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444377765303
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444377772439
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444377772912
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377774350
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444377776886
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377790238
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444377793330
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377795912
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377800670
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1444377807075
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444377808577
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377811336
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1444377824002
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1444377824694
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377849738
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377850427
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377850975
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377851402
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377851804
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444377852908
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444377853898
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377853921
+closed,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377853922
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1444377857465
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377857774
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377857824
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377859440
+closed,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377859440
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1444377862264
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377862577
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1444377862623
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1444377867509
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1444377868918
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377880428
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377885882
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377887262
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444377893734
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377907329
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377909422
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377916761
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444377918705
+executed,command,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui.format.document",1444377920803
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444377922722
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444377931360
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444378151737
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1444378152917
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444378154166
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378158801
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378162735
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378172384
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444378174294
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378177137
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444378186585
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1444378187272
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378189410
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444378204466
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444378247796
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1444378263114
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1444378278126
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444378286273
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1444378286864
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378290255
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378294527
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378315315
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1444378321665
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1444378327715

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:paddingLeft="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="normal state" />
+
+    <RadioGroup
+        android:id="@+id/radio_normal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/man"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="man" />
+
+        <RadioButton
+            android:id="@+id/woman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="woman" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="user_defined state" />
+
+    <!-- <RadioGroup
+        android:id="@+id/radio_defined"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/checkbox_style"
+            android:button="@null"
+            android:text="man" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:background="@drawable/checkbox_style"
+            android:text="woman" />
+    </RadioGroup> -->
+    
+</LinearLayout>

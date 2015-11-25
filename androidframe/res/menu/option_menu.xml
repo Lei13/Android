@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/option_item1"
+        android:icon="@drawable/ic_launcher"
+        android:title="add">
+        <menu
+            android:title="add_one" >
+        </menu>
+    </item>
+>
+    <item
+        android:id="@+id/option_item2"
+        android:icon="@drawable/ic_launcher"
+        android:title="update"/>
+    <item
+        android:id="@+id/option_item3"
+        android:icon="@drawable/ic_launcher"
+        android:title="delete"/>
+
+</menu>

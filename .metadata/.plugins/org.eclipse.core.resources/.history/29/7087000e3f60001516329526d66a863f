@@ -1,0 +1,42 @@
+package com.scxh.android.wedget;
+
+import com.scxh.android.Main.R;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.CheckBox;
+import android.widget.TextView;
+
+public class CheckBoxActivity extends Activity {
+	private CheckBox mRead;
+	private CheckBox mListen;
+	private CheckBox mSport;
+	private CheckBox mTour;
+	private TextView result;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated  method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_checkbox);
+		
+		mRead = (CheckBox) findViewById(R.id.read);
+		mListen = (CheckBox) findViewById(R.id.listen);
+		mSport = (CheckBox) findViewById(R.id.sport);
+		mTour = (CheckBox) findViewById(R.id.tour);
+		result = (TextView)findViewById(R.id.result);
+	}
+
+	private void setListener(){
+		mRead.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
+		
+	}
+}

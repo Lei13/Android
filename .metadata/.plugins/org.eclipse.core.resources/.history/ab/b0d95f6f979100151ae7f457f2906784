@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:padding="5dp" >
+
+    <ImageView
+        android:id="@+id/pic_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/ic_launcher"
+         />
+
+    <TextView
+        android:id="@+id/title_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/pic_item"
+        android:textColor="@android:color/black"
+        android:singleLine="true" />
+
+    <ImageView
+        android:id="@+id/pic_card_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:scaleType="center"
+        android:src="@drawable/near_card" />
+
+    <ImageView
+        android:id="@+id/pic_group_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/pic_card_item"
+        android:scaleType="center"
+        android:src="@drawable/near_group" />
+
+    <ImageView
+        android:id="@+id/pic_ticket_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/pic_group_item"
+        android:scaleType="center"
+        android:src="@drawable/near_ticket" />
+
+    <TextView
+        android:id="@+id/cotent_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_item"
+        android:layout_toRightOf="@id/pic_item"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="12sp"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/distance_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/pic_item"
+        android:drawableLeft="@drawable/info_map"
+        android:layout_alignParentRight="true"
+        android:textColor="@android:color/darker_gray"
+        android:drawablePadding="5dp"
+        android:textSize="12sp"
+        android:singleLine="true" />
+    <TextView
+        android:id="@+id/location_item"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/pic_item"
+        android:layout_toLeftOf="@id/distance_item"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="11sp"
+        android:singleLine="true" />
+
+    
+
+</RelativeLayout>

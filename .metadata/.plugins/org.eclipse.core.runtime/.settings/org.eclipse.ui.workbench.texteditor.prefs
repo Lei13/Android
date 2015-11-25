@@ -1,0 +1,6 @@
+#Mon Nov 09 12:29:12 CST 2015
+org.eclipse.ui.workbench.texteditor.templates.templatesPage.nameWidth=180
+org.eclipse.ui.workbench.texteditortemplates.templatesPage.context.expand.swt=true
+eclipse.preferences.version=1
+org.eclipse.ui.workbench.texteditortemplates.templatesPage.context.expand.swt-members=true
+org.eclipse.ui.workbench.texteditor.templates.templatesPage.descriptionWidth=270

@@ -1,0 +1,7 @@
+package com.scxh.android.pasexml;
+
+public interface XmlParseInterface {
+	public void xmlPullParse();
+	public void xmlSerializer();
+
+}

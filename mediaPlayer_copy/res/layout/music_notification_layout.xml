@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:background="@android:color/darker_gray"
+     >
+    <ImageView 
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/pic_notify_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:src="@drawable/default_icon_item_notification"
+        />
+
+    <TextView
+        android:id="@+id/title_notify_txt"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/pic_notify_img"
+        android:singleLine="true"
+        android:textColor="@android:color/white"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/artist_notify_txt"
+        android:layout_toRightOf="@id/pic_notify_img"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_notify_txt"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="13sp" />
+
+   <!--  <ImageView
+        android:id="@+id/last_notify_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/title_notify_txt"
+        android:layout_marginLeft="20dp"
+        android:clickable="true"
+        android:scaleType="center"
+        android:src="@drawable/notify_pre_btn" /> -->
+    <ImageView
+        android:id="@+id/paly_notify_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/artist_notify_txt"
+        android:layout_marginLeft="10dp"
+        android:clickable="true"
+        android:scaleType="center"
+        android:src="@drawable/notify_play_n" />
+
+    <ImageView
+        android:id="@+id/next_notify_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@id/paly_notify_btn"
+        android:clickable="true"
+        android:scaleType="center"
+        android:src="@drawable/notify_next_n" />
+
+    <ImageView
+        android:id="@+id/close_notify_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:clickable="true"
+        android:scaleType="center"
+        android:src="@drawable/notify_close_f" />
+
+</RelativeLayout>

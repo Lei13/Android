@@ -1,0 +1,74 @@
+package com.scxh.android.pasexml;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+
+import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
+
+import android.test.AndroidTestCase;
+import android.util.Log;
+import android.util.Xml;
+
+public class XMLpaseTest extends AndroidTestCase {
+
+	public void paseXml() throws IOException, XmlPullParserException {
+		InputStream is = getContext().getAssets().open("book.xml");
+		XmlPullParser parser = Xml.newPullParser();
+		parser.setInput(is, "UTF-8");
+
+		ArrayList<Book> books = null;
+		Book book = null;
+		int type = parser.getEventType();
+
+		while (XmlPullParser.END_DOCUMENT != type) {
+			switch (type) {
+			case XmlPullParser.START_DOCUMENT:
+				books = new ArrayList<Book>();
+				break;
+
+			case XmlPullParser.START_TAG:
+				if (parser.getName().equals("book")) {
+					book = new Book();
+				} else if (parser.getName().equals("id")) {
+					type = parser.next();
+					book.setId(Integer.parseInt(parser.getText()));
+
+				} else if (parser.getName().equals("name")) {
+					type = parser.next();
+					book.setName(parser.getText());
+
+				} else if (parser.getName().equals("price")) {
+					type = parser.next();
+					book.setPrice(Double.parseDouble(parser.getText()));
+				}
+				break;
+			case XmlPullParser.END_TAG:
+				if (parser.getName().equals("book")) {
+					books.add(book);
+				}
+				break;
+			}
+			type = parser.next();
+		}
+		for (Book b : books) {
+			Log.v("tag", "  id:" + b.getId() + "  name:  " + b.getName()
+					+ "  price:  " + b.getPrice());
+		}
+
+	}
+
+	public void readFile() throws IOException {
+		InputStream is = getContext().getAssets().open("book.xml");
+		BufferedReader read = new BufferedReader(new InputStreamReader(is));
+		String len = "";
+		String str = "";
+		while ((len = read.readLine()) != null) {
+			str += len;
+		}
+		Log.v("tag", "str:  " + str);
+	}
+}

@@ -1,0 +1,10 @@
+package com.scxh.android.json;
+
+import java.util.ArrayList;
+
+public class PicsetBean {
+	private String albumsName;
+	private ArrayList<PicBean> picUrlSet;
+	
+
+}

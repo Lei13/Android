@@ -1,0 +1,6 @@
+package com.scxh.android.json;
+
+public class InfoBean {
+	private PicsetBean picSet;
+
+}

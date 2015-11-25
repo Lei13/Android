@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:src="@drawable/img_k_chinese" />
+
+    <TextView
+        android:id="@+id/user_main_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="我 的"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/setting_main_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:drawableRight="@drawable/bt_sceneplay_mode_hide"
+        android:drawablePadding="5dp"
+        android:textColor="@android:color/tertiary_text_dark"
+        android:textStyle="bold"
+        android:text="个人设置"
+         />
+
+    <ListView
+        android:id="@+id/list_main_lv"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp" >
+    </ListView>
+
+</LinearLayout>

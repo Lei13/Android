@@ -1,0 +1,17 @@
+package com.scxh.android.pasexml;
+
+import java.util.ArrayList;
+
+public class XmlParseUtil implements XmlParseInterface{
+
+	@Override
+	public ArrayList<Book> xmlPullParse(String xml) {
+		return null;
+	}
+
+	@Override
+	public String xmlSerializer(ArrayList<Book> books) {
+		return null;
+	}
+
+}

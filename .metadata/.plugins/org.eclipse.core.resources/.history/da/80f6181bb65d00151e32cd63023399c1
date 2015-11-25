@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wedget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="test1">Hello world!adb is running normally.</string>
+    <string name="test2">Hello world!Performing com.scxh.layout.frame.</string>
+    <string name="test3">Hello world!Starting activity com.scxh.layout.frame.FrameLayout</string>
+
+</resources>

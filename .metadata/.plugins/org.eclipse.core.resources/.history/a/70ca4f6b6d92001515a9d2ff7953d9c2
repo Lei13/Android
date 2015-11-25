@@ -1,0 +1,19 @@
+package com.scxh.android.pasexml;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.ListView;
+
+import com.scxh.android.frame.R;
+
+public class BookListActivity extends Activity {
+	ListView mList;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+		setContentView(R.layout.booklist_activity_layout);
+		mList = (ListView) findViewById(R.id.list_book);
+	}
+
+}

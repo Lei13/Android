@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;android&apos;&#x0D;&#x0A;- Original project: &apos;android&apos;&#x0D;&#x0A;- Original element: &apos;android/src/com.scxh.layout.table&apos;" description="Delete element" element1="/src&lt;com.scxh.layout.table" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1447153827003" subPackages="false" version="1.0"/>
+</session>

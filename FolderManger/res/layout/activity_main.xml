@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/file_path_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/file_recommend"
+        android:gravity="center_vertical"
+        android:padding="12dp"
+        android:singleLine="true"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="14sp"
+        android:visibility="gone"
+        />
+
+    <LinearLayout
+        android:id="@+id/path_liear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/file_recommend"
+        android:orientation="horizontal" >
+        <TextView
+            android:id="@+id/file_first_path_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="1dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:gravity="center" 
+            android:clickable="true"
+            android:maxEms="10"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/file_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp" >
+    </ListView>
+
+</LinearLayout>

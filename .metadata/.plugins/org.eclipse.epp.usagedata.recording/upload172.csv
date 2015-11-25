@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1445474625021
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1445474631033
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1445474633424
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445474636679
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1445474642725
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445474644885
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445474650819
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1445474656872
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445474658030
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445474659628
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445474663080
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1445474686767
+opened,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1445474695431
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474696919
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474699807
+started,bundle,com.android.ide.eclipse.gldebugger,21.1.0.v201302060044-569685,"com.android.ide.eclipse.gldebugger",1445474701300
+opened,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.DeviceView",1445474701367
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.DeviceView",1445474701382
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474702517
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474704467
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474704666
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474727091
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474728810
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474759467
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474759481
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474770339
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474801844
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445474802006
+started,bundle,org.eclipse.wb.os,1.1.0.r37x201109091012,"org.eclipse.wb.os",1445474802991
+started,bundle,org.eclipse.wb.os.win32,1.1.0.r37x201109091012,"org.eclipse.wb.os.win32",1445474803026
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474829218
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474829325
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474853848
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474853848
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445474855310
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474881012
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1445474881899
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445474882820
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1445474891494
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445474891991
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445474894152
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445474896961
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474928907
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474942860
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474949490
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445474949650
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445474949708
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474951688
+closed,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445474951688
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445474953165
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445474954178
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445475009297
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445475025907
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445475035039
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445475035042
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445475035055
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445475036275
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445475052116
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445475052247
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445475081008
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445475120164
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445475120227
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445475126115
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445475126389
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445475130011
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1445475408466
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.ClassFileEditor",1445475410860
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.ClassFileEditor",1445475410905
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445475430510
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.ClassFileEditor",1445475431920
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445477383212
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445477386879
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445479695336
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.ClassFileEditor",1445479695336
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1445479697484
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445479698270
+executed,command,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.edit.text.java.add.block.comment",1445479702869
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445479703744
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445479707366
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445479720112
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445479743542
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445479779839
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445479781206
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445479982736
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1445479995952
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445479999045
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480000896
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480048158
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480063472
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445480064552
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480106517
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480106595
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480125146
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480125147
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480212197
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480221231
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480248984
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445480249107
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480286557
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480295437
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480317663
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445480327727
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480329033
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480331967
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480332100
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445480332882
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445480332939
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480443167
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1445480525542
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445480526708
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480531846
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480535420
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480566920
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480584224
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445480585211
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480605213
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480605291
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480607194
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480607194
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445480608555
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480610309
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445480619944
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445480631873
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480633198
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.cut",1445480672540
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1445480674134
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480686543
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480692807
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480720280
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445480721283
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480740316
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480740394
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480744266
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480744266
+activated,view,com.android.ide.eclipse.ddms,23.0.4.1468518,"com.android.ide.eclipse.ddms.views.LogCatView",1445480745739
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480755711
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1445480780864
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1445480781482
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480782375
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480796039
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480797068
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480802047
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480813825
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480836896
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480946658
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445480948985
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480959040
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445480960070
+executed,command,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.edit.text.delete.line",1445480964001
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445480964691
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480984334
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445480984669
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481002591
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481004517
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481005569
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481011299
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481022273
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481029011
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481039153
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1445481047450
+opened,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481066513
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481066535
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481068283
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481071178
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481072042
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481073318
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481074255
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481079744
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481081971
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481083481
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481084771
+activated,editor,com.android.ide.eclipse.adt,23.0.4.1468518,"com.android.ide.eclipse.editors.CommonXmlEditor",1445481087834
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481099090
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481299792
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.text.contentAssist.proposals",1445481303542
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1445481362223
+started,bundle,org.eclipse.mylyn.context.ui,3.7.1.v20120425-0100,"org.eclipse.mylyn.context.ui",1445481362297
+error,log,,,"fileChanged: failed to find manifest package for project AndroidClass1503",1445481362724
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481374488
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481374567
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481379431
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481379491
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481381188
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1445481381188
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481382264
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1445481382373
+error,log,,,"Could not read Manifest data",1445481382499
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382644
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1445481382653
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382656
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382659
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382676
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382678
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382726
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382728
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382730
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382732
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382734
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382736
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382738
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382740
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382742
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382761
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382763
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382926
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382929
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382932
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382954
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481382994
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383053
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383066
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383117
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383124
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383129
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383165
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383196
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383205
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383228
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383230
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383232
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383261
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383280
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383281
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383283
+error,log,,,"Unable to read E:\\Android1503\\AndroidManifest.xml: org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: '/AndroidClass1503/AndroidManifest.xml'.",1445481383286

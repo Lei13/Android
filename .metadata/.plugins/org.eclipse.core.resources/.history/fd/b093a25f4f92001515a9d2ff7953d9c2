@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+
+    <book>
+        <id>1001</id>
+        <name>android</name>
+        <price>52.3</price>
+    </book>
+
+    <book>
+        <id>1002</id>
+        <name>java</name>
+        <price>63.8</price>
+    </book>
+    <book>
+        <id>1003</id>
+        <name>html手册</name>
+        <price>35.6</price>
+    </book>
+    
+</books>

@@ -1,0 +1,107 @@
+package com.scxh.android.httpconnect;
+
+import java.io.IOException;
+import java.util.HashMap;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.util.EntityUtils;
+
+import android.os.AsyncTask;
+
+public class HttpConnectUtil {
+	public static final String GET = "GET";
+	public static final String POST = "POST";
+
+	HttpConnectionResponse httpResponse;
+
+	public interface HttpConnectionResponse {
+		public void handleHttpResponse(String response);
+	}
+
+	/* 没有参数的请求 */
+	HttpConnectUtil(String requestMethod, String httpUrl,
+			HttpConnectionResponse response) {
+		httpResponse = response;
+		httpConnect(requestMethod, httpUrl,  null,response);
+	}
+
+	/* 有参数的请求 */
+	HttpConnectUtil(String requestMethod, String httpUrl,
+			HttpConnectionResponse response, HashMap<String, Object> params) {
+		httpResponse = response;
+		httpConnect(requestMethod, httpUrl, params, response);
+
+	}
+
+	public void httpConnect(String requestMethod, String httpUrl,
+			 HashMap<String, Object> params,HttpConnectionResponse response) {
+		if (requestMethod.equalsIgnoreCase(GET)) {
+			getRequest(httpUrl, params, response);
+
+		} else if (requestMethod.equalsIgnoreCase(POST)) {
+			postRequest(httpUrl, response, params);
+		} else {
+			throw new NullPointerException("requestMethod 不能为空");
+		}
+
+	}
+
+	private void getRequest(String httpUrl,
+			final HashMap<String, Object> values,final HttpConnectionResponse httpResponse) {
+		new AsyncTask<String, Void, String>() {
+
+			@Override
+			protected String doInBackground(String... params) {
+				String url = params[0] + "?";
+				HttpClient client = new DefaultHttpClient();
+				
+				if (params != null) {
+					for (String key : values.keySet()) {
+						url = url + key + "=" + values.get(key) + "&";
+					}
+				}
+				
+				HttpGet request = new HttpGet(url);
+				try {
+					HttpResponse response = (HttpResponse) client
+							.execute(request);
+					return EntityUtils.toString(response.getEntity(), "UTF-8");
+				} catch (ClientProtocolException e) {
+					e.printStackTrace();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				return null;
+			}
+
+			@Override
+			protected void onPostExecute(String result) {
+				httpResponse.handleHttpResponse(result);
+			}
+		}.execute(httpUrl);
+
+	}
+
+	private void postRequest(String httpUrl,
+			final HttpConnectionResponse response,
+			HashMap<String, Object> params) {
+		new AsyncTask<String, Void, String>() {
+
+			@Override
+			protected String doInBackground(String... params) {
+
+				return null;
+			}
+
+			@Override
+			protected void onPostExecute(String result) {
+				response.handleHttpResponse(result);
+			}
+		}.execute(httpUrl);
+	}
+
+}

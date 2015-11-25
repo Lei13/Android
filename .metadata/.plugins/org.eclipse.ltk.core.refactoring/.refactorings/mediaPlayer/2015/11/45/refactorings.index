@@ -1,0 +1,67 @@
+1446518535034	Move folder
+1446519582202	Copy file
+1446519586641	Copy file
+1446520963773	Rename resource 'pager_item_first_layout.xml'
+1446521353573	Rename resource 'ic_shopping_center_dot_default.png'
+1446521360895	Rename resource 'ic_shopping_center_dot_pressed.png'
+1446542160119	Rename resource 'paly_song_selector.xml'
+1446542165895	Copy file
+1446542442095	Delete element
+1446542444314	Delete element
+1446542931872	Delete element
+1446542934306	Delete element
+1446546939515	Move file
+1446546940856	Move file
+1446547383307	Delete element
+1446547385137	Delete element
+1446605124945	Rename package 'com.scxh.android.music'
+1446605205472	Rename type 'MainActivity'
+1446605223135	Rename resource 'activity_main.xml'
+1446606189631	Rename resource 'list_item_music_layout.xml'
+1446608624621	Delete element
+1446608831423	Delete element
+1446609247766	Rename package 'com.scxh.android.music.ui'
+1446618203036	Rename field 'mProgressBar'
+1446618716021	Rename field 'data'
+1446631230984	Delete element
+1446631236995	Delete element
+1446631273660	Delete element
+1446631275583	Delete element
+1446631395256	Delete element
+1446631404850	Delete element
+1446631415265	Delete element
+1446637125131	Move file
+1446637128116	Move file
+1446637416827	Move file
+1446689564993	Move file
+1446689577530	Move file
+1446690055949	Rename type 'MainActivity'
+1446690068405	Rename resource 'mainactivity_layout.xml'
+1446690076310	Rename resource 'main_list_item_layout.xml'
+1446690144264	Move compilation unit
+1446693913003	Delete element
+1446703783325	Delete element
+1446707776781	Rename local variable 'mList'
+1446708133750	Rename type 'ListAdapter_Main'
+1446708409014	Rename field 'pager'
+1446708421136	Rename field 'iconImg'
+1446708868949	Copy file
+1446708876661	Copy file
+1446709346191	Rename field 'mine'
+1446709358574	Rename field 'found'
+1446723406241	Rename resource 'ic_shopping_center_dot_default.png'
+1446723429088	Delete element
+1446723438156	Delete element
+1446777483001	Delete element
+1446783740468	Delete element
+1446785149066	Rename method 'addFirstItem'
+1446785165148	Rename method 'addSecondItem'
+1446786870933	Copy file
+1446786882019	Delete element
+1446787115420	Delete element
+1446787119046	Delete element
+1446796086334	Move file
+1446797055698	Move file
+1446797309516	Move file
+1446797768984	Move file
+1446798520288	Move file

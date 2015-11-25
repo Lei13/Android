@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mine_press">#F4F0F4</color>
+    <color name="mine_normal">#FCFCFC</color>
+    <color name="tab_pressed">#2FBBB3</color>
+</resources>

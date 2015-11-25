@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;scroll&apos; in &apos;com.scxh.android.music.MainActivity.addFindItem()&apos; to &apos;mScroll&apos;&#x0D;&#x0A;- Original project: &apos;mediaPlayer&apos;&#x0D;&#x0A;- Original element: &apos;com.scxh.android.music.MainActivity.addFindItem().scroll&apos;&#x0D;&#x0A;- Renamed element: &apos;scroll&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;scroll&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.scxh.android.music{MainActivity.java[MainActivity~addFindItem@scroll!4497!4584!4508!4513!QScrollView;!0!false" name="mScroll" references="true" stamp="1447674308867" version="1.0"/>
+</session>

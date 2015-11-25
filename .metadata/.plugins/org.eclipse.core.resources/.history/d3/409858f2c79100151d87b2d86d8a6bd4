@@ -1,0 +1,8 @@
+package com.scxh.android.json;
+
+public class RootBean {
+	private InfoBean info ;
+	private String resultCode;
+	private String resultInfo;
+
+}

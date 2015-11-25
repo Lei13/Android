@@ -1,0 +1,18 @@
+package com.scxh.android.json;
+
+import java.io.IOException;
+import java.io.InputStream;
+
+import com.alibaba.fastjson.JSONObject;
+
+import android.test.AndroidTestCase;
+
+public class FastJsonTest extends AndroidTestCase{
+	
+	
+	
+	public void readFile() throws IOException{
+		InputStream is = getContext().getResources().getAssets().open("json_xx");
+	}
+
+}

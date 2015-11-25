@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">classnote</string>
+    <string name="wechat">微信登录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user">请输入用户名</string>
+    <string name="password">请输入密码</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="text">文本区</string>
+    <string name="register">注册</string>
+    <string name="role">角色</string>
+    <string name="skill">技能</string>
+    <string name="hint_user">QQ号/微信号/Email</string>
+    <string name="hint_password">密码</string>
+    
+    <string name="item1">看书</string>
+    <string name="item2">听音乐</string>
+    <string name="item3">运动</string>
+    <string name="item4">旅游</string>
+
+</resources>

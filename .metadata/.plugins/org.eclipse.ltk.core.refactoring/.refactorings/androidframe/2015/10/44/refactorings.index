@@ -1,0 +1,7 @@
+1445830486921	Rename type 'Student'
+1445831836965	Rename type 'MyDatabaseResult'
+1445843725455	Rename type 'DbHelper'
+1445910897607	Rename type 'MyAdapter'
+1445993171437	Rename package 'com.scxh.android.sqlite'
+1445998228956	Rename field 'mSharedPrefrenceHelper'
+1446084622574	Rename type 'MyProvider'

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#F4F0F4">
+
+    <!-- 自定义标题栏 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/title_background"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/title_back_meituan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:onClick="setTitleBackImgListener"
+            android:src="@drawable/title_back_selector" />
+
+        <ImageView
+            android:id="@+id/title_mei_txt_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@id/title_back_meituan"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_action_home"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/title_mei_txt_img"
+            android:gravity="center_vertical"
+            android:text="美食"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/title_search_meituan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:clickable="true"
+            android:onClick="searchClickListener"
+            android:src="@drawable/title_search_selector" />
+
+        <ImageView
+            android:id="@+id/title_map_meituan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@id/title_search_meituan"
+            android:clickable="true"
+            android:src="@drawable/title_map_selector" />
+    </RelativeLayout>
+
+   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:layout_marginTop="1dp"
+        android:background="@android:color/white"
+        >
+
+        <Spinner
+            android:id="@+id/spinner_first"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1" 
+            android:background="@drawable/spinner_selector" />
+
+        <Spinner
+            android:id="@+id/spinner_second"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:background="@drawable/spinner_selector" />
+
+        <Spinner
+            android:id="@+id/spinner_third"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center" 
+            android:background="@drawable/spinner_selector"/>
+
+        <Spinner
+            android:id="@+id/spinner_fourth"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/spinner_selector" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listview_meituan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </ListView>
+
+</LinearLayout>

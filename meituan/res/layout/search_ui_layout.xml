@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5dp" >
+
+    <ImageView
+        android:id="@+id/back_search_ui"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:clickable="true"
+        android:src="@drawable/back_search_ui_selector"
+        android:layout_marginRight="5dp" 
+        android:onClick="backClickListener"/>
+
+    <AutoCompleteTextView
+        android:id="@+id/search_autotext_meituan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/back_search_ui"
+        android:drawableLeft="@drawable/ic_action_search_dark"
+        android:hint="输入商家、分类或商圈"
+        android:background="@drawable/search_title_text"
+        android:dropDownHeight="50dp"
+         android:layout_marginRight="50dp"
+         android:drawablePadding="6dp"
+         android:singleLine="true"
+        
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="8dp"
+        android:text="搜索"
+        android:textSize="18sp" />
+
+</RelativeLayout>

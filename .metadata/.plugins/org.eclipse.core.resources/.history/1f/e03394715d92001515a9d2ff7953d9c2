@@ -1,0 +1,49 @@
+package com.scxh.android.pasexml;
+
+import java.io.IOException;
+import java.io.StringWriter;
+import java.util.ArrayList;
+
+import org.xmlpull.v1.XmlSerializer;
+
+import android.util.Xml;
+
+public class XmlParseUtil implements XmlParseInterface{
+
+	@Override
+	public ArrayList<Book> xmlPullParse(String xml) {
+		ArrayList<Book> books = new ArrayList<Book>();
+		Book book = new Book();
+		
+		
+		
+		return null;
+	}
+
+	@Override
+	public String xmlSerializer(ArrayList<Book> books) {
+		XmlSerializer seri = Xml.newSerializer();
+		StringWriter writer = new StringWriter();
+		try {
+			seri.setOutput(writer);
+			seri.startDocument("UTF-8", true);
+			seri.startTag("", "books");
+			for (Book book : books) {
+				
+			}
+			
+			seri.endTag("", "books");
+			seri.endDocument();
+			return writer.toString();
+		} catch (IllegalArgumentException e) {
+			e.printStackTrace();
+		} catch (IllegalStateException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		return null;
+	}
+
+}
