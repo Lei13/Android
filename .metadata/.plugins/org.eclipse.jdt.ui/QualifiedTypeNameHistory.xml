@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.content.Context"/>
-<fullyQualifiedTypeName name="android.widget.TextView"/>
-<fullyQualifiedTypeName name="com.scxh.android.pasexml.BookListActivity.BookListAdapter.ViewHolder"/>
-<fullyQualifiedTypeName name="com.scxh.android.pasexml.BookListActivity.BookListAdapter"/>
-<fullyQualifiedTypeName name="java.io.InputStream"/>
-<fullyQualifiedTypeName name="com.scxh.android.pasexml.XmlParseUtil"/>
-<fullyQualifiedTypeName name="com.scxh.android.pasexml.BookListActivity"/>
-<fullyQualifiedTypeName name="android.graphics.drawable.BitmapDrawable"/>
-<fullyQualifiedTypeName name="com.android.prictice.json.MainActivity.ListAdapter.AsyncDrawable"/>
-<fullyQualifiedTypeName name="android.graphics.BitmapFactory"/>
-<fullyQualifiedTypeName name="android.graphics.drawable.Drawable"/>
 <fullyQualifiedTypeName name="com.android.prictice.json.MainActivity.ListAdapter.LoadPicAsyncTask"/>
 <fullyQualifiedTypeName name="com.android.prictice.json.R.drawable"/>
 <fullyQualifiedTypeName name="android.os.AsyncTask"/>
 <fullyQualifiedTypeName name="java.lang.ref.WeakReference"/>
 <fullyQualifiedTypeName name="com.android.prictice.json.DiskLruCache.Snapshot"/>
 <fullyQualifiedTypeName name="android.app.Fragment"/>
-<fullyQualifiedTypeName name="com.scxh.android.frame.R"/>
 <fullyQualifiedTypeName name="com.scxh.android.frame.R.layout"/>
 <fullyQualifiedTypeName name="com.scxh.android.fragment.FragmentActivity"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
@@ -25,10 +13,8 @@
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="com.android.page.PageUtil"/>
-<fullyQualifiedTypeName name="android.app.Activity"/>
 <fullyQualifiedTypeName name="android.R"/>
 <fullyQualifiedTypeName name="com.android.prictice.json.R"/>
-<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
 <fullyQualifiedTypeName name="com.android.prictice.json.R.id"/>
 <fullyQualifiedTypeName name="android.R.layout"/>
 <fullyQualifiedTypeName name="com.android.page.listview.PageAcitivty.ListAdapter"/>
@@ -40,7 +26,6 @@
 <fullyQualifiedTypeName name="com.warmtel.android.slider.R"/>
 <fullyQualifiedTypeName name="com.warmtel.android.slider.R.id"/>
 <fullyQualifiedTypeName name="com.scxh.slider.library.SliderTypes.TextSliderView"/>
-<fullyQualifiedTypeName name="android.support.v4.view.ViewPager"/>
 <fullyQualifiedTypeName name="android.widget.ImageView"/>
 <fullyQualifiedTypeName name="com.android.page.MyImageView"/>
 <fullyQualifiedTypeName name="com.android.page.R.layout"/>
@@ -51,7 +36,6 @@
 <fullyQualifiedTypeName name="com.alibaba.fastjson.JSONObject"/>
 <fullyQualifiedTypeName name="org.json.JSONObject"/>
 <fullyQualifiedTypeName name="android.util.Log"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.android.prictice.json.R.layout"/>
 <fullyQualifiedTypeName name="android.widget.ProgressBar"/>
 <fullyQualifiedTypeName name="android.widget.AbsListView.OnScrollListener"/>
@@ -60,4 +44,20 @@
 <fullyQualifiedTypeName name="android.content.SharedPreferences"/>
 <fullyQualifiedTypeName name="android.content.SharedPreferences.Editor"/>
 <fullyQualifiedTypeName name="android.widget.CompoundButton.OnCheckedChangeListener"/>
+<fullyQualifiedTypeName name="android.widget.RadioGroup"/>
+<fullyQualifiedTypeName name="android.support.v4.view.ViewPager"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentPagerAdapter"/>
+<fullyQualifiedTypeName name="com.scxh.android.fragment.FragmentActivity.PagerAdapter"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentManager"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="android.support.v4.app.FragmentActivity"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.scxh.android.fragment.MyFragment"/>
+<fullyQualifiedTypeName name="android.support.v4.app.Fragment"/>
+<fullyQualifiedTypeName name="com.scxh.android.frame.R"/>
+<fullyQualifiedTypeName name="com.scxh.android.fragment.Fragment_two"/>
+<fullyQualifiedTypeName name="android.widget.RadioGroup.OnCheckedChangeListener"/>
+<fullyQualifiedTypeName name="com.scxh.android.frame.R.id"/>
+<fullyQualifiedTypeName name="android.support.v4.view.ViewPager.OnPageChangeListener"/>
 </qualifiedTypeNameHistroy>

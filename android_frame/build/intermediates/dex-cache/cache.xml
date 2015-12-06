@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\studio\workspace\androidframe\libs\fastjson-1.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9f675e9a1b2bf1224183005752a9214226e8aa8e">
+        <dex dex="F:\studio\workspace\androidframe\build\intermediates\pre-dexed\debug\fastjson-1.2.5_e2c59a18c2d774666a97ceb950bb4f8b74d1fd09.jar" />
+    </item>
+    <item
+        jar="F:\studio\workspace\androidframe\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0725d32f682f72bdfb3f61a2cd04dc3763710b6c">
+        <dex dex="F:\studio\workspace\androidframe\build\intermediates\pre-dexed\debug\android-support-v4_edad172db35d5f76a2a161091904ec31b5b5558f.jar" />
+    </item>
+
+</items>

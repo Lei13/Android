@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\main_fragment_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\main_fragment_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\action_database.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\action_database.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\mybroadcastreceiver_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\mybroadcastreceiver_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\myasynctask_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\myasynctask_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\aync_download_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\aync_download_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\mystart_service_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\mystart_service_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\media_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\media_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\tabhost_tabs_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\tabhost_tabs_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\database_list_item.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\database_list_item.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\shape_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\shape_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\http_connect_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\http_connect_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\intent_list_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\intent_list_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\item_booklist.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\item_booklist.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item3_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\viewpager_item3_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\arrayadapter_item_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\arrayadapter_item_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\simpleadapter_item_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\simpleadapter_item_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item2_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\viewpager_item2_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\imgview_child_gridview_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\imgview_child_gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\mydatabase_list_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\mydatabase_list_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item1_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\viewpager_item1_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\mybroadcastactivity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\mybroadcastactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\actionbar_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\mywebactivity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\mywebactivity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\defined_notification_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\defined_notification_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_alert_d_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\dialog_alert_d_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_test_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\item_gridview_test_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\myservice_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\myservice_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\intent_detail_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\intent_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\mediapalyer_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\mediapalyer_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\handler_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\handler_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\arrayadapter_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\arrayadapter_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_two_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\fragment_two_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\fragment_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\optionmenu_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\optionmenu_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\booklist_activity_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\booklist_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\tabhost_mytab_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\tabhost_mytab_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\notification_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\notification_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\simpleadapter_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\simpleadapter_layout.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\layout\\file_write_layout.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\layout\\file_write_layout.xml"
+    }
+]

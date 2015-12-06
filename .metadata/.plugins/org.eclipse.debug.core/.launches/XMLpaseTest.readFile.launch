@@ -2,7 +2,7 @@
 <launchConfiguration type="com.android.ide.eclipse.adt.junit.launchConfigurationType">
 <stringAttribute key="com.android.ide.eclipse.adt.instrumentation" value="android.test.InstrumentationTestRunner"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/androidframe/src/com/scxh/android/pasexml/XMLpaseTest.java"/>
+<listEntry value="/android_frame/src/com/scxh/android/pasexml/XMLpaseTest.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
@@ -12,6 +12,6 @@
 <stringAttribute key="org.eclipse.jdt.junit.TESTNAME" value="readFile"/>
 <stringAttribute key="org.eclipse.jdt.junit.TEST_KIND" value="org.eclipse.jdt.junit.loader.junit3"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.scxh.android.pasexml.XMLpaseTest"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="androidframe"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="android_frame"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=""/>
 </launchConfiguration>

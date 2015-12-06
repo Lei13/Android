@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\menu\\test_spinneractivity_menu.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\menu\\test_spinneractivity_menu.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\menu\\option_menu.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar_menu.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\menu\\action_bar_menu.xml"
+    }
+]

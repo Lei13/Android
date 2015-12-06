@@ -10,7 +10,7 @@
 <stringAttribute key="com.android.ide.eclipse.adt.testSize" value="All Tests"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.wipedata" value="false"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/androidframe/src/com/scxh/android/provider/TestProvider.java"/>
+<listEntry value="/android_frame/src/com/scxh/android/provider/TestProvider.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
@@ -20,6 +20,6 @@
 <stringAttribute key="org.eclipse.jdt.junit.TESTNAME" value="testQueryFromProvider"/>
 <stringAttribute key="org.eclipse.jdt.junit.TEST_KIND" value="org.eclipse.jdt.junit.loader.junit3"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.scxh.android.provider.TestProvider"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="androidframe"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="android_frame"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=""/>
 </launchConfiguration>

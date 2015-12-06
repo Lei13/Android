@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp" 
+    >
+ 
+    <TextView 
+        android:id="@+id/name_text"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="姓名"
+        android:textSize="18sp"/>
+    <EditText 
+        android:id="@+id/name_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/name_text"
+        android:layout_alignBaseline="@id/name_text"
+        android:hint="pls input your name"
+        />
+    
+    <TextView 
+        android:id="@+id/id_text"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name_text"
+        android:text="学号"
+        android:textSize="18sp"/>
+    <EditText 
+        android:id="@+id/id_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/id_text"
+        android:layout_below="@id/name_text"
+        android:layout_alignBaseline="@id/id_text"/>"
+    
+    <Button 
+        android:id="@+id/inqury_btn"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/id_edit"
+        android:text="查询"
+        android:onClick="studentDBBtnClickListener"/>
+    
+    <Button 
+        android:id="@+id/insert_btn"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/inqury_btn"
+        android:text="插入"
+        android:onClick="studentDBBtnClickListener"/>
+
+</RelativeLayout>

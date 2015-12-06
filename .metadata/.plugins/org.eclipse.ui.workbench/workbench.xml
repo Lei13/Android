@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="38" version="2.0">
+<workbench progressCount="39" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="109" y="0">
 <fastViewData fastViewLocation="1024">
@@ -18,9 +18,9 @@
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="135" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="78" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="124" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="61" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
 <coolItem id="com.genymobile.genymotion.toolbars.sampleToolbar" itemType="typeToolBarContribution" x="38" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
@@ -30,8 +30,8 @@
 <coolItem id="org.eclipse.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -40,20 +40,10 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoginActivity.java" partName="LoginActivity.java" path="D:/Program Files (x86)/eclipse/sdk+adt/androidworkspace/meituan/src/com/scxh/meituan/ui/LoginActivity.java" title="LoginActivity.java" tooltip="meituan/src/com/scxh/meituan/ui/LoginActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/meituan/src/com/scxh/meituan/ui/LoginActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1481" selectionTopPixel="60"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="login_layout.xml" partName="login_layout.xml" path="D:/Program Files (x86)/eclipse/sdk+adt/androidworkspace/meituan/res/layout/login_layout.xml" title="login_layout.xml" tooltip="meituan/res/layout/login_layout.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/meituan/res/layout/login_layout.xml"/>
-</editor>
 </editors>
 <views>
 <view id="org.eclipse.jdt.junit.ResultView" partName="JUnit">
@@ -190,14 +180,14 @@
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.jdt.junit.ResultView"/>
 <view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<view id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <fastViewBars>
 <fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@fdb924" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
 <fastViews>
-<view id="org.eclipse.ui.console.ConsoleView" ratio="0.2480106"/>
 <view id="com.android.ide.eclipse.ddms.views.FileExplorerView" ratio="0.3"/>
-<view id="com.android.ide.eclipse.ddms.views.DeviceView" ratio="0.29973474"/>
 </fastViews>
 </fastViewBar>
 </fastViewBars>
@@ -258,20 +248,22 @@
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@38688e" ratio="0.713715" ratioLeft="536" ratioRight="215" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.jdt.junit.ResultView" label="JUnit"/>
 <page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
+<page content="com.android.ide.eclipse.ddms.views.DeviceView" label="Devices"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
 </presentation>
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@fdb924" ratio="0.94188374" ratioLeft="470" ratioRight="29" relationship="4" relative="org.eclipse.ui.editorss">
 <folder appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
 <page content="com.android.ide.eclipse.ddms.views.FileExplorerView" label="LabelNotFound"/>
-<page content="com.android.ide.eclipse.ddms.views.DeviceView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
@@ -371,162 +363,19 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/jsonPrictice/src/com/android/page/listview/PageAcitivty.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/jsonPrictice/AndroidManifest.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/jsonPrictice/res/layout/page_activity_layout.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Android-XListView-library/src/com/warmtel/android/xlistview/XListView.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=jsonPrictice/libs\/android-async-http-1.4.9.jar&lt;com.loopj.android.http(AsyncHttpClient.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/jsonPrictice/res/layout/page_activity_layout.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/androidframe/src/com/scxh/android/ui/tabhost/MyTabHostActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/androidframe/res/layout/tabhost_mytab_layout.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/androidframe/res/layout/tabhost_tabs_layout.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/meituan/src/com/scxh/meituan/ui/LoginActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/meituan/res/layout/login_layout.xml"/>
-</editors>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="3481" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="1571" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2287" y="0"/>
-</item>
-<item historyLabel="XListView.java" index="3">
-<position info="not_deleted" x="692" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2398" y="0"/>
-</item>
-<item historyLabel="jsonPrictice Manifest" index="1"/>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2398" y="0"/>
-</item>
-<item historyLabel="page_activity_layout.xml" index="2"/>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2398" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="1749" y="0"/>
-</item>
-<item historyLabel="AsyncHttpClient.class" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="1749" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2465" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="1478" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="3104" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="3061" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2875" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="1609" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="3819" y="7"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="2886" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="1639" y="11"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="3986" y="0"/>
-</item>
-<item historyLabel="PageAcitivty.java" index="0">
-<position info="not_deleted" x="3073" y="0"/>
-</item>
-<item historyLabel="page_activity_layout.xml" index="5"/>
-<item historyLabel="MyTabHostActivity.java" index="6">
-<position info="not_deleted" x="857" y="0"/>
-</item>
-<item historyLabel="tabhost_mytab_layout.xml" index="7"/>
-<item historyLabel="MyTabHostActivity.java" index="6">
-<position info="not_deleted" x="2493" y="0"/>
-</item>
-<item historyLabel="tabhost_tabs_layout.xml" index="8"/>
-<item historyLabel="tabhost_mytab_layout.xml" index="7"/>
-<item historyLabel="MyTabHostActivity.java" index="6">
-<position info="not_deleted" x="2331" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1129" y="0"/>
-</item>
-<item historyLabel="login_layout.xml" index="10"/>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1129" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1363" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1368" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1369" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1427" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1432" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1433" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1230" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1151" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1889" y="8"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1270" y="0"/>
-</item>
-<item historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1271" y="0"/>
-</item>
-<item active="true" historyLabel="LoginActivity.java" index="9">
-<position info="not_deleted" x="1272" y="0"/>
-</item>
-</navigationHistory>
+<navigationHistory/>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="right"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -536,54 +385,9 @@
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@fdb924"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@38688e"/>
 </trimArea>
 </trimLayout>
 </window>
-<mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="login_layout.xml" tooltip="meituan/res/layout/login_layout.xml">
-<persistable path="/meituan/res/layout/login_layout.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LoginActivity.java" tooltip="meituan/src/com/scxh/meituan/ui/LoginActivity.java">
-<persistable path="/meituan/src/com/scxh/meituan/ui/LoginActivity.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="tabhost_tabs_layout.xml" tooltip="androidframe/res/layout/tabhost_tabs_layout.xml">
-<persistable path="/androidframe/res/layout/tabhost_tabs_layout.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="tabhost_mytab_layout.xml" tooltip="androidframe/res/layout/tabhost_mytab_layout.xml">
-<persistable path="/androidframe/res/layout/tabhost_mytab_layout.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyTabHostActivity.java" tooltip="androidframe/src/com/scxh/android/ui/tabhost/MyTabHostActivity.java">
-<persistable path="/androidframe/src/com/scxh/android/ui/tabhost/MyTabHostActivity.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AsyncHttpClient.class" tooltip="com.loopj.android.http.AsyncHttpClient">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=jsonPrictice/libs\/android-async-http-1.4.9.jar&lt;com.loopj.android.http(AsyncHttpClient.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XListView.java" tooltip="Android-XListView-library/src/com/warmtel/android/xlistview/XListView.java">
-<persistable path="/Android-XListView-library/src/com/warmtel/android/xlistview/XListView.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PageUtil.java" tooltip="webApp/src/com/android/page/PageUtil.java">
-<persistable path="/webApp/src/com/android/page/PageUtil.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="page_activity_layout.xml" tooltip="jsonPrictice/res/layout/page_activity_layout.xml">
-<persistable path="/jsonPrictice/res/layout/page_activity_layout.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="jsonPrictice/AndroidManifest.xml">
-<persistable path="/jsonPrictice/AndroidManifest.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PageServlet.java" tooltip="webApp/src/com/android/page/PageServlet.java">
-<persistable path="/webApp/src/com/android/page/PageServlet.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PageAcitivty.java" tooltip="jsonPrictice/src/com/android/page/listview/PageAcitivty.java">
-<persistable path="/jsonPrictice/src/com/android/page/listview/PageAcitivty.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ViewPager.class" tooltip="android.support.v4.view.ViewPager">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=page_test/D:\/Program Files \(x86)\/eclipse\/sdk+adt\/androidworkspace\/page_test\/libs\/android-support-v4.jar&lt;android.support.v4.view(ViewPager.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="image_layout.xml" tooltip="page_test/res/layout/image_layout.xml">
-<persistable path="/page_test/res/layout/image_layout.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main.xml" tooltip="page_test/res/layout/activity_main.xml">
-<persistable path="/page_test/res/layout/activity_main.xml"/>
-</file>
-</mruList>
+<mruList/>
 </workbench>

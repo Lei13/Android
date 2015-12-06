@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\studio\workspace\androidframe\assets"><file name="book.xml" path="F:\studio\workspace\androidframe\assets\book.xml"/><file name="gui.txt" path="F:\studio\workspace\androidframe\assets\gui.txt"/><file name="hg.txt" path="F:\studio\workspace\androidframe\assets\hg.txt"/><file name="json_xx" path="F:\studio\workspace\androidframe\assets\json_xx"/></source></dataSet><dataSet config="debug"><source path="F:\studio\workspace\androidframe\build-types\debug\assets"/></dataSet></merger>

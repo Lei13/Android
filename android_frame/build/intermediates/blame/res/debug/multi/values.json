@@ -1,0 +1,127 @@
+[
+    {
+        "outputFile": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "F:\\studio\\workspace\\androidframe\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 42,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "F:\\studio\\workspace\\androidframe\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 42,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 52,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "F:\\studio\\workspace\\androidframe\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "F:\\studio\\workspace\\androidframe\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "F:\\studio\\workspace\\androidframe\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1026
+                },
+                "from": {
+                    "file": "F:\\studio\\workspace\\androidframe\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1133
+                    }
+                }
+            }
+        ]
+    }
+]

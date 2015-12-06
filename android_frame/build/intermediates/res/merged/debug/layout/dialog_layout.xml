@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <Button 
+        android:id="@+id/dialog_progress_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="progressdialog进度条对话框"/>
+    <Button 
+        android:id="@+id/dialog_datepicker_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="datepickerdialog日期对话框"/>
+    <Button 
+        android:id="@+id/dialog_alert_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertdialog警告对话框"/>
+    <Button 
+        android:id="@+id/dialog_alertSingleOpt_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertdialog单选对话框"/>
+    <Button 
+        android:id="@+id/dialog_alertMultiOpt_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertdialog多选对话框"/>
+    <Button 
+        android:id="@+id/dialog_alert_d_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertdialog自定义对话框（系统自带边框）"/>
+    <Button 
+        android:id="@+id/dialog_alertdefined_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alert自定义对话框"/>
+    <Button 
+        android:id="@+id/dialog_toast_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Toast对话框"
+        android:onClick="testOnCreateDialog"/>
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_solid.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\shape_solid.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\line_hori_progressbar_layer_list.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\line_hori_progressbar_layer_list.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_viewpager_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\pressed_viewpager_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\textcolor_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\textcolor_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\button_click_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\button_click_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\tabs_src_click_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\tabs_src_click_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_corners.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\shape_corners.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button3_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\tab_button3_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gradient.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\shape_gradient.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_imageview_clickstate_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\gridview_imageview_clickstate_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button1_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\tab_button1_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button2_selector.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\tab_button2_selector.xml"
+    },
+    {
+        "merged": "F:\\studio\\workspace\\androidframe\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_stroke.xml",
+        "source": "F:\\studio\\workspace\\androidframe\\res\\drawable\\shape_stroke.xml"
+    }
+]
