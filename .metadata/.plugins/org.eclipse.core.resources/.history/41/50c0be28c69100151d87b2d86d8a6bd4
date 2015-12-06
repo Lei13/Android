@@ -1,7 +1,0 @@
-package com.scxh.android.json;
-
-public class PicsetBean {
-	private String albumsName;
-	private PicBean picUrlSet;
-
-}

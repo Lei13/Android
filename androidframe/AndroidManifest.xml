@@ -75,7 +75,8 @@
         <activity android:name="com.scxh.android.ui.wedget.MyWebView" />
         <activity android:name="com.scxh.android.httpconnect.HttpConnectActivity" />
         <activity android:name="com.scxh.android.pasexml.BookListActivity" />
-
+<activity android:name="com.scxh.android.fragment.FragmentActivity" />
+        
         <provider
             android:name="com.scxh.android.provider.MySqlProvider"
             android:authorities="com.scxh.android.provider" >

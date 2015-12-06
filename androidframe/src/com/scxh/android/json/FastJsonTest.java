@@ -6,6 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 import android.test.AndroidTestCase;
@@ -16,17 +17,18 @@ public class FastJsonTest extends AndroidTestCase {
 	public void fastJsonTest() throws IOException {
 		String jsonStr = readFile();
 		RootBean rootBean = JSONObject.parseObject(jsonStr, RootBean.class);
-		Log.v("tag", "getResultCode: "+rootBean.getResultCode()+"getResultInfo:  "+rootBean.getResultInfo());
+		Log.v("tag", "getResultCode: " + rootBean.getResultCode()
+				+ "getResultInfo:  " + rootBean.getResultInfo());
 		InfoBean infoBean = rootBean.getInfo();
 		ArrayList<PicsetBean> picBeanlist = infoBean.getPicSet();
 		for (PicsetBean picsetBean : picBeanlist) {
-			Log.v("tag","getAlbumsName:  "+ picsetBean.getAlbumsName());
-			ArrayList<PicBean> picBeanList = picsetBean.getPicUrlSet(); 
+			Log.v("tag", "getAlbumsName:  " + picsetBean.getAlbumsName());
+			ArrayList<PicBean> picBeanList = picsetBean.getPicUrlSet();
 			for (PicBean picBean : picBeanList) {
-				Log.v("tag", "getPicUrl::"+picBean.getPicUrl());
+				Log.v("tag", "getPicUrl::" + picBean.getPicUrl());
 			}
 		}
-		
+
 	}
 
 	public String readFile() throws IOException {
@@ -42,4 +44,17 @@ public class FastJsonTest extends AndroidTestCase {
 		return s;
 	}
 
+	public void fastJsonObject() {
+		JSONObject object = new JSONObject();
+		JSONArray array = new JSONArray();
+		ArrayList<String> list = new ArrayList<String>();
+		for (int i = 0; i < 10; i++) {
+			list.add("dojg rgi   " + i);
+		}
+		array.addAll(list);
+		object.put("code", 1);
+		object.put("content", array);
+		Log.v("tag", object.toString());
+
+	}
 }

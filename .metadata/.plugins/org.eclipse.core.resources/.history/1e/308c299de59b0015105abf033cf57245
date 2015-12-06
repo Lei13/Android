@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RadioGroup
+        android:layout_alignParentBottom="true"
+        android:id="@+id/fragment_radios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/fragment_btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/tab_button1_selector"
+            android:text="select1" 
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/fragment_btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/tab_button2_selector"
+            android:text="select2" />
+
+        <RadioButton
+            android:id="@+id/fragment_btn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/tab_button3_selector"
+            android:text="select3" />
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/fragment_pager"
+        android:layout_above="@id/fragment_radios"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

@@ -16,6 +16,7 @@ import com.scxh.android.asynctask.AyncDownLoadActivity;
 import com.scxh.android.asynctask.MyAsyncActivity;
 import com.scxh.android.broadcastreceiver.MyBroadcastActivity;
 import com.scxh.android.broadcastreceiver.MyReceiverActivity;
+import com.scxh.android.fragment.FragmentActivity;
 import com.scxh.android.gridview.GridViewActivity;
 import com.scxh.android.handler.HandlerActivity;
 import com.scxh.android.httpconnect.HttpConnectActivity;
@@ -120,6 +121,8 @@ public class MainActivity extends Activity {
 				HttpConnectActivity.class));
 		addItem(list, "BookListActivity", new Intent(MainActivity.this,
 				BookListActivity.class));
+		addItem(list, "FragmentActivity", new Intent(MainActivity.this,
+				FragmentActivity.class));
 		return list;
 	}
 

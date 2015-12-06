@@ -1,0 +1,67 @@
+package com.scxh.android.fragment;
+
+import java.util.ArrayList;
+
+import com.scxh.android.frame.R;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.view.ViewPager;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.RadioGroup;
+
+public class FragmentActivity extends Activity {
+	private RadioGroup mRadioGroup;
+	private ViewPager mPager;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+
+		setContentView(R.layout.main_fragment_activity_layout);
+		initView();
+
+	}
+
+	private void initView() {
+		mRadioGroup = (RadioGroup) findViewById(R.id.fragment_radios);
+		mPager = (ViewPager) findViewById(R.id.fragment_pager);
+	}
+
+	private void setPagerAdapter(){
+		android.support.v4.app.FragmentManager manager = getFragmentManager();
+		PagerAdapter adapter = new PagerAdapter(getFragmentManager());
+	}
+	
+	
+	
+	
+	
+	public class PagerAdapter extends FragmentPagerAdapter {
+		ArrayList<Fragment> data = new ArrayList<Fragment>();
+
+		public PagerAdapter(FragmentManager fm) {
+			super(fm);
+		}
+
+		public void setData(ArrayList<Fragment> data) {
+			this.data = data;
+		}
+
+		@Override
+		public android.support.v4.app.Fragment getItem(int arg0) {
+			return data.get(arg0);
+		}
+
+		@Override
+		public int getCount() {
+			return data.size();
+		}
+
+	}
+}

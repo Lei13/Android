@@ -1,4 +1,4 @@
-#Fri Nov 20 10:05:00 CST 2015
+#Wed Nov 25 16:16:26 CST 2015
 threadPanel.stack.col0=566
 networkPanel.rxPackets=110
 ddms.logcat.auotmonitor.level=error
@@ -6,7 +6,6 @@ ddms.logcat.automonitor.userprompt=true
 emulatorControl.waypoint.desc=117
 networkPanel.title=270
 logcat.view.colsize.Time=150
-logcat.view.display.filters=false
 emulatorControl.track.first=135
 logcat.view.colsize.PID=62
 networkPanel.rxBytes=110

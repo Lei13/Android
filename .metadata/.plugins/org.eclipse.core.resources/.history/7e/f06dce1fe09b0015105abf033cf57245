@@ -1,0 +1,26 @@
+package com.scxh.android.fragment;
+
+import com.scxh.android.frame.R;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.RadioGroup;
+
+public class FragmentActivity extends Activity {
+	private RadioGroup mRadioGroup;
+	
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+		setContentView(R.layout.main_fragment_activity_layout);
+		
+		
+	}
+
+}

@@ -25,6 +25,7 @@ public class LoginActivity extends Activity implements OnClickListener,
 	EditText mUserEdt, mPasswordEdt;
 	CheckBox mRememberCbx;
 	ImageButton userClearBtn, passwordClearBtn;
+	SharedPreferences preferences;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +35,12 @@ public class LoginActivity extends Activity implements OnClickListener,
 
 		initView();
 		registerListener();
+		SharedPreferences preference = getSharedPreferences("com.meituan.login_prefrence_file_key",MODE_PRIVATE);
+		if (preference != null) {
+			mUserEdt.setText(preference.getString("user", ""));
+			mPasswordEdt.setText(preference.getString("password", ""));
+			mRememberCbx.setChecked(true);
+		}
 	}
 
 	/*
@@ -58,6 +65,8 @@ public class LoginActivity extends Activity implements OnClickListener,
 		mRememberCbx = (CheckBox) findViewById(R.id.login_remember_user);
 		MyDbHelpler helper = new MyDbHelpler(this);
 		mDb = helper.getReadableDatabase();
+
+		
 	}
 
 	/*
@@ -69,6 +78,28 @@ public class LoginActivity extends Activity implements OnClickListener,
 
 		userClearBtn.setOnClickListener(this);
 		passwordClearBtn.setOnClickListener(this);
+
+		mRememberCbx.setOnCheckedChangeListener(new OnCheckedChangeListener() {
+
+			@Override
+			public void onCheckedChanged(CompoundButton buttonView,
+					boolean isChecked) {
+				if (isChecked) {
+					preferences = getSharedPreferences(
+							"com.meituan.login_prefrence_file_key", MODE_PRIVATE);
+					SharedPreferences.Editor editor = preferences.edit();
+					editor.putString("user", mUserEdt.getText().toString());
+					editor.putString("password", mPasswordEdt.getText()
+							.toString());
+					editor.commit();
+
+				} else {
+					preferences.edit().clear().commit();
+
+				}
+
+			}
+		});
 	}
 
 	/*
@@ -88,6 +119,7 @@ public class LoginActivity extends Activity implements OnClickListener,
 				mPasswordEdt.setText("");
 			}
 			break;
+
 		}
 
 	}

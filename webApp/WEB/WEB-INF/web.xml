@@ -10,17 +10,25 @@
 		<servlet-name>jpsonservlet</servlet-name>
 		<servlet-class>com.android.app.JsonServlet</servlet-class>
 	</servlet>
+	<servlet>
+		<servlet-name>PageServlet</servlet-name>
+		<servlet-class>com.android.page.PageServlet</servlet-class>
+	</servlet>
+
+
 
 	<servlet-mapping>
 		<servlet-name>testapp</servlet-name>
 		<url-pattern>/test</url-pattern>
 	</servlet-mapping>
-
-
-
 	<servlet-mapping>
 		<servlet-name>jpsonservlet</servlet-name>
 		<url-pattern>/jpson</url-pattern>
 	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>PageServlet</servlet-name>
+		<url-pattern>/page</url-pattern>
+	</servlet-mapping>
+	
 
 </web-app>
